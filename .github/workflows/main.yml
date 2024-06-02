@@ -5,7 +5,7 @@ on:
     branches:
       - alemifoto
   schedule:
-    - cron: "* */6 * * *"
+    - cron: "* */12 * * *"
 permissions:
   contents: write
 jobs:
